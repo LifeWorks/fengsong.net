@@ -27,10 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Systems Biology
+    tag: sysbio
+  - name: Synthetic Biology
+    tag: synthbio
+  - name: Complex Systems
+    tag: complexity
+  - name: Network Science
+    tag: networks
+  - name: Machine Learning
+    tag: learning
+  - name: Computational Methods
+    tag: methods
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
