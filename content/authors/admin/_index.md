@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computational Systems Biology
+    - course: PhD in Systems Biology
       institution: University of Warwick
       year: 2016
     - course: MSc in Bioscience
@@ -49,8 +49,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/fengzhimu
-  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+#  - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=1zDxMDUAAAAJ&hl=en
@@ -83,4 +83,4 @@ Song Feng is a scientist at the Pacific Northwest National Laboratory. In genera
 
 The non-triviality for humans is exploring and expanding their physical and spiritual boundaries. It is an endless game. Let's have fun.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
