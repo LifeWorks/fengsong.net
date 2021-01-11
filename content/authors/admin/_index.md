@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: PhD in Systems Biology
-      institution: University of Warwick
+      institution: The University of Warwick
       year: 2016
     - course: MSc in Bioscience
       institution: King Abdullah University of Science and Technology
